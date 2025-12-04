@@ -1,0 +1,30 @@
+# Compiled files
+*.o
+*.so
+*.a
+*.dylib
+*.exe
+
+# Executables
+main
+tempCodeRunnerFile
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Build directories
+build/
+dist/
